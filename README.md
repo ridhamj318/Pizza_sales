@@ -1,4 +1,4 @@
-# Heading 1 Pizza Sales Dashboard - Power BI
+# Pizza Sales Dashboard - Power BI
 ------------
 This repository contains a Power BI dashboard that provides comprehensive insights into the sales performance of a pizza business. The dashboard helps in analyzing key metrics such as total sales, sales trends, top-selling products, customer demographics, and more.
 
